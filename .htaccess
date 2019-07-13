@@ -1,5 +1,5 @@
 AuthType Basic
 AuthName "kou"
-AuthUserFile /Users/kou/Projects/kou0.github.io/.htpasswd
+AuthUserFile /.htpasswd
 require vaild-user
 
